@@ -1,7 +1,7 @@
 # EP.2-1 세포는 결국 무엇으로 만들어졌을까?
 
 - 교재: 2장 2.1 화학결합
-- 게시: 2026-11-07 · [인스타그램](https://www.instagram.com/p/Df092Gnj8bw/)
+- 게시: 2026-11-07 · [인스타그램](https://www.instagram.com/p/Df1G57oj9QZ/)
 
 ## 캡션
 
