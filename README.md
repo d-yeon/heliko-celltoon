@@ -11,4 +11,5 @@ DNA 캐릭터 **헬리코**와 함께 세포생물학 교과서(「필수세포�
 | 화 | 제목 | 교재 | 게시일 | 인스타 |
 |---|---|---|---|---|
 | [EP.0](episodes/ep0/) | 우리가 누구냐면요 | 소개 | 2026-10-08 | [보기](https://www.instagram.com/p/DeOS15ij8zF/) |
+| [EP.1-1](episodes/ep1-1/) | 스마트폰은 살아 있을까? | 1장 1.1 세포의 단일성과 다양성 | 2026-10-08 | [보기](https://www.instagram.com/p/DeOTzc6D684/) |
 <!-- EPISODES -->
