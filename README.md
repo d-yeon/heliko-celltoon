@@ -17,4 +17,5 @@ DNA 캐릭터 **헬리코**와 함께 세포생물학 교과서(「필수세포�
 | [EP.1-4](episodes/ep1-4/) | 내 세포 속에 박테리아가 산다? | 1장 1.4 진핵세포 | 2026-10-27 | [보기](https://www.instagram.com/p/De_WKecD7gb/) |
 | [EP.1-5](episodes/ep1-5/) | 대장균에서 맞으면 코끼리에서도 맞다? | 1장 1.5 모델 생물체 연구 | 2026-11-05 | [보기](https://www.instagram.com/p/DfWi2J2jwN_/) |
 | [EP.2-1](episodes/ep2-1/) | 세포는 결국 무엇으로 만들어졌을까? | 2장 2.1 화학결합 | 2026-11-07 | [보기](https://www.instagram.com/p/Df1G57oj9QZ/) |
+| [EP.2-2](episodes/ep2-2/) | 세포 속 레고 블록은 몇 종류일까? | 2장 2.2 세포 내의 작은 분자 | 2026-11-08 | [보기](https://www.instagram.com/p/Df1q5ckjwTa/) |
 <!-- EPISODES -->
