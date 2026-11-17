@@ -15,4 +15,5 @@ DNA 캐릭터 **헬리코**와 함께 세포생물학 교과서(「필수세포�
 | [EP.1-2](episodes/ep1-2/) | 세포를 처음 본 사람들 | 1장 1.2 세포 구조 보기 | 2026-10-19 | [보기](https://www.instagram.com/p/DeqfO2eD-hb/) |
 | [EP.1-3](episodes/ep1-3/) | 다윈이 노트에 그린 나무 | 1장 1.3 생명의 나무 | 2026-10-22 | [보기](https://www.instagram.com/p/DeySTd8D5s1/) |
 | [EP.1-4](episodes/ep1-4/) | 내 세포 속에 박테리아가 산다? | 1장 1.4 진핵세포 | 2026-10-27 | [보기](https://www.instagram.com/p/De_WKecD7gb/) |
+| [EP.1-5](episodes/ep1-5/) | 대장균에서 맞으면 코끼리에서도 맞다? | 1장 1.5 모델 생물체 연구 | 2026-11-05 | [보기](https://www.instagram.com/p/DfWi2J2jwN_/) |
 <!-- EPISODES -->
