@@ -18,4 +18,5 @@ DNA 캐릭터 **헬리코**와 함께 세포생물학 교과서(「필수세포�
 | [EP.1-5](episodes/ep1-5/) | 대장균에서 맞으면 코끼리에서도 맞다? | 1장 1.5 모델 생물체 연구 | 2026-11-05 | [보기](https://www.instagram.com/p/DfWi2J2jwN_/) |
 | [EP.2-1](episodes/ep2-1/) | 세포는 어떤 원자로 만들어졌을까? | 2장 2.1 화학결합 | 2026-11-19 | [보기](https://www.instagram.com/p/Df6ERxrD0tj/) |
 | [EP.2-2](episodes/ep2-2/) | 원자들은 전자를 어떻게 나눠 쓸까? | 2장 2.1 화학결합 | 2026-11-19 | [보기](https://www.instagram.com/p/Df60a1Ij6Sz/) |
+| [EP.2-3](episodes/ep2-3/) | 약한 결합은 왜 세포에 꼭 필요할까? | 2장 2.1 화학결합 | 2026-11-20 | [보기](https://www.instagram.com/p/Df8pLCeD94t/) |
 <!-- EPISODES -->
