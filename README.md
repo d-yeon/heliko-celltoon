@@ -22,4 +22,5 @@ DNA 캐릭터 **헬리코**와 함께 세포생물학 교과서(「필수세포�
 | [EP.2-4](episodes/ep2-4/) | 세포 속은 왜 늘 pH 7 근처일까? | 2장 2.1 화학결합 | 2026-11-20 | [보기](https://www.instagram.com/p/Df9ZRmaD30E/) |
 | [EP.2-5](episodes/ep2-5/) | 세포 속 작은 유기분자는 몇 가족일까? | 2장 2.2 세포 내의 작은 분자 | 2026-11-21 | [보기](https://www.instagram.com/p/Df_N92uD2iv/) |
 | [EP.2-6](episodes/ep2-6/) | 당은 왜 그렇게 종류가 많을까? | 2장 2.2 세포 내의 작은 분자 | 2026-11-21 | [보기](https://www.instagram.com/p/Df_9_vXj0cx/) |
+| [EP.2-7](episodes/ep2-7/) | 기름 분자가 어떻게 세포막이 될까? | 2장 2.2 세포 내의 작은 분자 | 2026-11-22 | [보기](https://www.instagram.com/p/DgByugIDzyF/) |
 <!-- EPISODES -->
