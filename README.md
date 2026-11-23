@@ -25,4 +25,5 @@ DNA 캐릭터 **헬리코**와 함께 세포생물학 교과서(「필수세포�
 | [EP.2-7](episodes/ep2-7/) | 기름 분자가 어떻게 세포막이 될까? | 2장 2.2 세포 내의 작은 분자 | 2026-11-22 | [보기](https://www.instagram.com/p/DgByugIDzyF/) |
 | [EP.2-8](episodes/ep2-8/) | 단백질 블록 20종은 무엇이 다를까? | 2장 2.2 세포 내의 작은 분자 | 2026-11-22 | [보기](https://www.instagram.com/p/DgCi0trD-y4/) |
 | [EP.2-9](episodes/ep2-9/) | DNA·RNA 블록과 ATP는 어떻게 생겼을까? | 2장 2.2 세포 내의 작은 분자 | 2026-11-23 | [보기](https://www.instagram.com/p/DgEXhUZj2f_/) |
+| [EP.2-10](episodes/ep2-10/) | 작은 분자를 이은 사슬, 정말 하나의 분자일까? | 2장 2.3 세포 내의 거대분자 | 2026-11-23 | [보기](https://www.instagram.com/p/DgFHpuqj5FS/) |
 <!-- EPISODES -->
