@@ -28,4 +28,5 @@ DNA 캐릭터 **헬리코**와 함께 세포생물학 교과서(「필수세포�
 | [EP.2-10](episodes/ep2-10/) | 작은 분자를 이은 사슬, 정말 하나의 분자일까? | 2장 2.3 세포 내의 거대분자 | 2026-11-23 | [보기](https://www.instagram.com/p/DgFHpuqj5FS/) |
 | [EP.2-11](episodes/ep2-11/) | 약한 결합이 어떻게 단단한 모양을 만들까? | 2장 2.3 세포 내의 거대분자 | 2026-11-24 | [보기](https://www.instagram.com/p/DgG8aZLDz6V/) |
 | [EP.3-1](episodes/ep3-1/) | 세포는 왜 쉬지 않고 에너지가 필요할까? | 3장 3.1 세포의 에너지 이용 | 2026-11-24 | [보기](https://www.instagram.com/p/DgHsgAED11c/) |
+| [EP.3-2](episodes/ep3-2/) | 세포는 햇빛과 음식에서 에너지를 어떻게 꺼낼까? | 3장 3.1 세포의 에너지 이용 | 2026-11-25 | [보기](https://www.instagram.com/p/DgKRE-zDwU7/) |
 <!-- EPISODES -->
