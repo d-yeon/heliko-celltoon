@@ -30,4 +30,5 @@ DNA 캐릭터 **헬리코**와 함께 세포생물학 교과서(「필수세포�
 | [EP.3-1](episodes/ep3-1/) | 세포는 왜 쉬지 않고 에너지가 필요할까? | 3장 3.1 세포의 에너지 이용 | 2026-11-24 | [보기](https://www.instagram.com/p/DgHsgAED11c/) |
 | [EP.3-2](episodes/ep3-2/) | 세포는 햇빛과 음식에서 에너지를 어떻게 꺼낼까? | 3장 3.1 세포의 에너지 이용 | 2026-11-25 | [보기](https://www.instagram.com/p/DgKRE-zDwU7/) |
 | [EP.3-3](episodes/ep3-3/) | 효소는 어떻게 반응을 쉽게 만들까? | 3장 3.2 자유에너지와 촉매작용 | 2026-11-25 | [보기](https://www.instagram.com/p/DgMF74Qj0El/) |
+| [EP.3-4](episodes/ep3-4/) | 반응은 어디까지 가고 어디서 멈출까? | 3장 3.2 자유에너지와 촉매작용 | 2026-11-26 | [보기](https://www.instagram.com/p/DgM2B_6j7CD/) |
 <!-- EPISODES -->
