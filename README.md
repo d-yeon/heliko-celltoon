@@ -33,4 +33,5 @@ DNA 캐릭터 **헬리코**와 함께 세포생물학 교과서(「필수세포�
 | [EP.3-4](episodes/ep3-4/) | 반응은 어디까지 가고 어디서 멈출까? | 3장 3.2 자유에너지와 촉매작용 | 2026-11-26 | [보기](https://www.instagram.com/p/DgM2B_6j7CD/) |
 | [EP.3-5](episodes/ep3-5/) | 효소는 기질을 어떻게 그렇게 빨리 만날까? | 3장 3.2 자유에너지와 촉매작용 | 2026-11-26 | [보기](https://www.instagram.com/p/DgOqv4oj7uE/) |
 | [EP.3-6](episodes/ep3-6/) | 자유에너지, 한 장으로 정리하면? | 3장 패널 3-1 자유에너지와 촉매작용 | 2026-11-27 | [보기](https://www.instagram.com/p/DgPaw0rD4kW/) |
+| [EP.3-7](episodes/ep3-7/) | 음식에서 나온 에너지, 세포는 어디에 담아 둘까? | 3장 3.3 활성운반체와 생합성 | 2026-11-27 | [보기](https://www.instagram.com/p/DgRPhjmj_zP/) |
 <!-- EPISODES -->
